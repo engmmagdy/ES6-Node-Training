@@ -1,0 +1,19 @@
+{
+  "name": "es6-node-training",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000S\u00006\u0000-\u0000N\u0000o\u0000d\u0000e\u0000-\u0000T\u0000r\u0000a\u0000i\u0000n\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engmmagdy/ES6-Node-Training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engmmagdy/ES6-Node-Training/issues"
+  },
+  "homepage": "https://github.com/engmmagdy/ES6-Node-Training#readme"
+}
